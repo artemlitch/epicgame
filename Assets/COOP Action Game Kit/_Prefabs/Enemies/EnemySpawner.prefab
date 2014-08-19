@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: EnemySpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: -1003283189, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.6490469, y: -1.62926292, z: 37.0401649}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 748ed968eb1720a40963d47e29bede22, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - Prefab: {fileID: 400000, guid: 518d5af97510eab4490b8c898e499234, type: 2}
+    Weight: 40
+    SpawnY: 3
+  - Prefab: {fileID: 400010, guid: 42a17718ff3748f4b877a61a04625158, type: 2}
+    Weight: 15
+    SpawnY: 3
+  - Prefab: {fileID: 400030, guid: 5e4b7727e0210f14b920d616d324564f, type: 2}
+    Weight: 10
+    SpawnY: 3
+  - Prefab: {fileID: 400000, guid: 53c2a8d3857d0404cb50ce76978805b5, type: 2}
+    Weight: 30
+    SpawnY: 3
+  spawnOnDeath: 0
+  spawnOnStart: 1
+  SpawnRandomQuantityMin: 1
+  SpawnRandomQuantityMax: 2
+  PositionVariationFactor: 2
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

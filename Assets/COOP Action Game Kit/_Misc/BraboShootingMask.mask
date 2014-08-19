@@ -1,0 +1,306 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BraboShootingMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Controls
+    m_Weight: 0
+  - m_Path: Controls/Left_Hip_Helper
+    m_Weight: 0
+  - m_Path: Controls/MainController
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Hips_Ctrl
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Left_Clavicle
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Left_Clavicle/Left_Shoulder
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Left_Clavicle/Left_Shoulder/Left_Elbow
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Left_Clavicle/Left_Shoulder/Left_Elbow/Left_Hand
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Left_Clavicle/Left_Shoulder/Left_Elbow/Left_Hand/Shotgun2
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Back_Hat
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Front_Hat
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Hat_1
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Hat_1/Hat_2
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Hat_1/Hat_2/Hat_3
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Hat_1/Hat_2/Hat_3/Hat_4
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Left_Hat
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Hat_Base/Right_Hat
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Jaw
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Jaw/Bottom_Mouth_Middle
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Jaw/Left_Lower_Middle_Mouth
+      1
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Jaw/Right_Lower_Middle_Mouth
+      1
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Left_Brow
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Left_Outer_Mouth
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Left_Upper_Middle_Mouth
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Middle_Brow
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Right_Brow
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Right_Outer_Mouth
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Right_Upper_Middle_Mouth
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Neck/HeadCtrl/Top_Mouth_Middle
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Right_Clavicle
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Right_Clavicle/Right_Shoulder
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Right_Clavicle/Right_Shoulder/Right_Elbow
+    m_Weight: 0
+  - m_Path: Controls/MainController/COG_Ctrl/Spine1/Spine2/Chest/Right_Clavicle/Right_Shoulder/Right_Elbow/Right_Hand
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot/Left_HeelLift
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot/Left_HeelLift/Left_Ankle_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot/Left_ToeLift
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot/Left_ToeLift/Left_Ball_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Foot_Controller/Left_AnklePivot/Left_ToePivot/Left_ToeLift/Left_Toe_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Left_Pole_Vector_Ctrl
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot/Right_HeelLift
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot/Right_HeelLift/Right_Ankle_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot/Right_ToeLift
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot/Right_ToeLift/Right_Ball_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Foot_Controller/Right_Ankle_Pivot/Right_Toe_Pivot/Right_ToeLift/Right_Toe_Handle
+    m_Weight: 0
+  - m_Path: Controls/MainController/Right_Pole_Vector_Ctrl
+    m_Weight: 0
+  - m_Path: Controls/Right_Hip_Helper
+    m_Weight: 0
+  - m_Path: Joints
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_LeftUpLeg
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg/Character1_LeftFoot
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg/Character1_LeftFoot/Character1_LeftToeBase
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_LeftUpLeg/Character1_LeftLeg/Character1_LeftFoot/Character1_LeftToeBase/Character1_LeftToeEnd
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_RightUpLeg
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg/Character1_RightFoot
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg/Character1_RightFoot/Character1_RightToeBase
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_RightUpLeg/Character1_RightLeg/Character1_RightFoot/Character1_RightToeBase/Character1_RightToeEnd
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1
+    m_Weight: 0
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandIndex1/Character1_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandIndex1/Character1_LeftHandIndex2/Character1_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandIndex1/Character1_LeftHandIndex2/Character1_LeftHandIndex3/Character1_LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandRing1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandRing1/Character1_LeftHandRing2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandRing1/Character1_LeftHandRing2/Character1_LeftHandRing3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandRing1/Character1_LeftHandRing2/Character1_LeftHandRing3/Character1_LeftHandRing4
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandThumb1/Character1_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandThumb1/Character1_LeftHandThumb2/Character1_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_LeftShoulder/Character1_LeftArm/Character1_LeftForeArm/Character1_LeftHand/Character1_LeftHandThumb1/Character1_LeftHandThumb2/Character1_LeftHandThumb3/Character1_LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_1
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_1
+      1/Hat_2 1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_1
+      1/Hat_2 1/Hat_3 1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_1
+      1/Hat_2 1/Hat_3 1/Hat_4 1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_1
+      1/Hat_2 1/Hat_3 1/Hat_4 1/Hat_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Back
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Back/Hat_Back_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Front
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Front/Hat_Front_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Left
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Left/Hat_Left_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Right
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Hat_Root/Hat_Right/Hat_Right_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Jaw
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Jaw
+      1/Jaw_End
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Left_Lower_Middle_Mouth
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Left_Outer_Brow
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Left_Outer_Mouth
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Left_Upper_Middle_Mouth
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Middle_Brow
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Middle_Upper_Lip
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Right_Lower_Middle_Mouth
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Right_Outer_Brow
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Right_Outer_Mouth
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_Neck/Character1_Head/Right_Upper_Middle_Mouth
+      1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandIndex1/Character1_RightHandIndex2/Character1_RightHandIndex3/Character1_RightHandIndex4
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandRing1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandRing1/Character1_RightHandRing2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandRing1/Character1_RightHandRing2/Character1_RightHandRing3/Character1_RightHandRing4
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3
+    m_Weight: 1
+  - m_Path: Joints/Root_Bone/Character1_Hips/Character1_Spine/Character1_Spine1/Character1_Spine2/Character1_RightShoulder/Character1_RightArm/Character1_RightForeArm/Character1_RightHand/Character1_RightHandThumb1/Character1_RightHandThumb2/Character1_RightHandThumb3/Character1_RightHandThumb4
+    m_Weight: 1
+  - m_Path: Meshes
+    m_Weight: 0
+  - m_Path: Meshes/Brabo_Base
+    m_Weight: 0
+  - m_Path: Meshes/Brabo_BlackPower
+    m_Weight: 0
+  - m_Path: Meshes/Brabo_HairLonger
+    m_Weight: 0
+  - m_Path: Meshes/Brabo_HairNotSoLong
+    m_Weight: 0
