@@ -18,7 +18,7 @@ Material:
           name: _MainTex
         second:
           m_Texture: {fileID: 2800000, guid: 9fe32ef0a80ee4239ab45fa293cd0979, type: 3}
-          m_Scale: {x: 14.7058821, y: 14.7058821}
+          m_Scale: {x: 44.1176453, y: 14.7058821}
           m_Offset: {x: 0, y: 0}
     m_Floats: {}
     m_Colors:
