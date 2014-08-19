@@ -1,5 +1,6 @@
 Library/*
 Temp/*
+build_Data/*
 *.csproj
 *.sln
 *.pidb
@@ -7,3 +8,4 @@ Temp/*
 *.unityproj
 *.app
 *.exe
+
