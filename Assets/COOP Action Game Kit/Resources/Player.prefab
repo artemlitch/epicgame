@@ -159,6 +159,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 400020}
   - 95: {fileID: 9500000}
+  - 148: {fileID: 14800002}
   m_Layer: 0
   m_Name: BraboAnims
   m_TagString: Untagged
@@ -1238,6 +1239,7 @@ GameObject:
   - 114: {fileID: 11400014}
   - 114: {fileID: 11400016}
   - 114: {fileID: 11400000}
+  - 148: {fileID: 14800000}
   m_Layer: 8
   m_Name: Player
   m_TagString: Player
@@ -2380,7 +2382,6 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2890,6 +2891,30 @@ CharacterController:
   m_SkinWidth: .0799999982
   m_MinMoveDistance: 0
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!148 &14800000
+NetworkView:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100168}
+  m_Enabled: 1
+  m_StateSynchronization: 1
+  m_Observed: {fileID: 400168}
+  m_ViewID:
+    m_ID: 0
+    m_Type: 0
+--- !u!148 &14800002
+NetworkView:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100020}
+  m_Enabled: 1
+  m_StateSynchronization: 1
+  m_Observed: {fileID: 400020}
+  m_ViewID:
+    m_ID: 0
+    m_Type: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -1,0 +1,251 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+desktop: 1920x1080 60Hz; virtual: 2197x2160 at -277,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\System.dll (this message is harmless)
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+SoundManagerGroup Client was not found
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.180336 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 742.
+Total: 0.556060 ms (FindLiveObjects: 0.026127 ms CreateObjectMapping: 0.008235 ms MarkObjects: 0.144552 ms  DeleteObjects: 0.009655 ms)
+
+SoundManagerGroup Mash was not found
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1920x1080 60Hz; virtual: 2197x2160 at -277,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\System.dll (this message is harmless)
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1920x1080 60Hz; virtual: 2197x2160 at -277,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Mike\Documents\GitHub\epicgame\Client_Data\Managed\System.dll (this message is harmless)
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Connecting To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Connected To Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+SoundManagerGroup CliSnt was not foond
+ 
+(Fageilename: C:/BuildAgent/workGroupfc6385 90b60/artifacts/Standn
+ alonePlayer
+(nereated/UnityEngineDnt/bworkpp /d63dfc638
+5
+190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.240258 ms
+UnloadTime: 0.203907 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 742.
+Total: 0.753436 ms (FindLiveObjects: 0.027547 ms CreateObjectMapping: 0.008803 ms MarkObjects: 0.157048 ms  DeleteObjects: 0.009939 ms)
+
+SoundManagerGroup Mash was not found
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 742.
+Total: 0.595819 ms (FindLiveObjects: 0.027547 ms CreateObjectMapping: 0.008519 ms MarkObjects: 0.177212 ms  DeleteObjects: 0.010223 ms)
+
+SoundManagerGroup Mash was not found
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Disconnected From Server
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+

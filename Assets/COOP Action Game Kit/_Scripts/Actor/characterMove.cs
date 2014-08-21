@@ -216,4 +216,7 @@ public class characterMove : MonoBehaviour {
 	bool moving {
 		get { return !moveAxis.Approximately(Vector3.zero); }
 	}
+	
+
+
 }

@@ -6,12 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/COOP Action Game Kit/_Scenes/MainMenu.unity
+    path: Assets/Client.unity
   - enabled: 1
-    path: Assets/COOP Action Game Kit/_Scenes/Adventure.unity
+    path: Assets/Mash.unity
   - enabled: 1
-    path: Assets/COOP Action Game Kit/_Scenes/CheatingArea.unity
-  - enabled: 1
-    path: Assets/COOP Action Game Kit/_Scenes/MakeALevel.unity
-  - enabled: 1
-    path: Assets/COOP Action Game Kit/_Scenes/TestScene.unity
+    path: Assets/Server.unity

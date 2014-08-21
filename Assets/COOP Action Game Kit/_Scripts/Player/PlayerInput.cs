@@ -56,8 +56,9 @@ public class PlayerInput : MonoBehaviour {
 	void Start () {
 		cM=GetComponent<characterMove>();
 		pC=GetComponent<PlayerController>();
-		
-		Pause=Camera.main.GetComponent<PauseScreen>();
+		if(!networkView.isMine)
+			this.enabled = false;
+		//Pause=Camera.main.GetComponent<PauseScreen>();
 		
 		SetInput(currentInput);
 

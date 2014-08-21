@@ -61,7 +61,7 @@ public class MenuPickInput : MonoBehaviour {
 					Tell2.text="";
 				break;
 		}
-		
+		Debug.Log(myInput);
 		GameManager.instance.playerInfo[PlayerNumber].pInput=myInput;
 	}
 	

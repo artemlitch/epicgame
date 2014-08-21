@@ -115,7 +115,17 @@ public class GameManager : MonoBehaviour
 		    		SpawnPosition=SpawnPoint.instance.SpawnPoints[i].position;
 	    	}
 	    	
-			GameObject myPlayer = (GameObject) Instantiate(Resources.Load("Player"), SpawnPosition, Quaternion.identity);
+			//MIKE EDIT
+			
+			GameObject myPlayer = null;
+			myPlayer = Network.Instantiate(Resources.Load("Player"), SpawnPosition, Quaternion.identity, 0) as GameObject;
+			
+			
+			//END MIKE EDIT
+			
+			//ORIGINALLY 
+			//GameObject myPlayer = (GameObject) Instantiate(Resources.Load("Player"), SpawnPosition, Quaternion.identity);
+			//THIS
 			
 			playerInfo[i].pC = myPlayer.GetComponent<PlayerController>();
 			
